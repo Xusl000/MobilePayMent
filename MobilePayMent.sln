@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PayMent.Core", "PayMent.Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayMent.Site", "PayMent.Site\PayMent.Site.csproj", "{8B0145BB-369C-4336-8597-E9FA3BD59C14}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "payMent.DBModel", "payMent.DBModel", "{5E815D8A-7350-451E-8EEF-1827A1B515CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
