@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="view\mobileweb\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
